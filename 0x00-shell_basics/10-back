@@ -1,4 +1,2 @@
 #!/bin/bash
-previous_dir=$(pwd)     # Get the current working directory
-cd ..   # Change the working directory to the parent directory
-echo "$(pwd)"    # Print the new working directory
+cd ..
